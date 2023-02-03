@@ -10,7 +10,7 @@
 
 ![FCFS](https://user-images.githubusercontent.com/114140750/216482956-c005f274-be2e-451d-b504-f5b9536adba8.png)
 
-# 4.EXECTION TIME
+# 4.EXECUTION TIME
 
 
 
